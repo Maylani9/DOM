@@ -1,0 +1,13 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 35px;
+  height: 30px;
+}
+.row p {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  font-weight: bold;
+}
