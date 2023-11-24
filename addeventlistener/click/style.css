@@ -1,0 +1,12 @@
+.kotak {
+  height: 400px;
+  width: 400px;
+  background-color: pink;
+  border: 2px;
+  cursor: pointer;
+  margin: 0;
+  gap: 20px;
+}
+.kotak button {
+  gap: 20px;
+}
